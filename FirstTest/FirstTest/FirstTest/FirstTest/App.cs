@@ -26,7 +26,7 @@ namespace FirstTest
                     Children = {
                         new Label {
                             XAlign = TextAlignment.Center,
-                            Text = "Welcome to Xamarin Forms!"
+                            Text = "Primer Proyecto Xamarin!"
                         },
                         btn 
                     }
