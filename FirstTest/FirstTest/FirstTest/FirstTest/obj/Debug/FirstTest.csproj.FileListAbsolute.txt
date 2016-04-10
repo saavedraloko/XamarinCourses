@@ -1,0 +1,16 @@
+C:\XamarinCourses\FirstTest\FirstTest\FirstTest\FirstTest\bin\Debug\FirstTest.dll
+C:\XamarinCourses\FirstTest\FirstTest\FirstTest\FirstTest\bin\Debug\FirstTest.pdb
+C:\XamarinCourses\FirstTest\FirstTest\FirstTest\FirstTest\bin\Debug\Xamarin.Forms.Core.dll
+C:\XamarinCourses\FirstTest\FirstTest\FirstTest\FirstTest\bin\Debug\Xamarin.Forms.Platform.dll
+C:\XamarinCourses\FirstTest\FirstTest\FirstTest\FirstTest\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\XamarinCourses\FirstTest\FirstTest\FirstTest\FirstTest\bin\Debug\Xamarin.Forms.Core.xml
+C:\XamarinCourses\FirstTest\FirstTest\FirstTest\FirstTest\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\XamarinCourses\FirstTest\FirstTest\FirstTest\FirstTest\obj\Debug\FirstTest.csprojResolveAssemblyReference.cache
+C:\XamarinCourses\FirstTest\FirstTest\FirstTest\FirstTest\obj\Debug\FirstTest.dll
+C:\XamarinCourses\FirstTest\FirstTest\FirstTest\FirstTest\obj\Debug\FirstTest.pdb
+C:\XamarinCourses\FirstTest\FirstTest\FirstTest\FirstTest\obj\Debug\FirstTest.dll.mdb
+C:\XamarinCourses\FirstTest\FirstTest\FirstTest\FirstTest\bin\Debug\FirstTest.dll.mdb
+C:\XamarinCourses\FirstTest\FirstTest\FirstTest\FirstTest\obj\Debug\FirstTest.dll.mdb
+C:\XamarinCourses\FirstTest\FirstTest\FirstTest\FirstTest\bin\Debug\FirstTest.dll.mdb
+C:\XamarinCourses\FirstTest\FirstTest\FirstTest\FirstTest\obj\Debug\FirstTest.dll.mdb
+C:\XamarinCourses\FirstTest\FirstTest\FirstTest\FirstTest\bin\Debug\FirstTest.dll.mdb
